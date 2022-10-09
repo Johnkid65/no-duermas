@@ -4,7 +4,7 @@ import som from './som.jpeg';
 import Texto from './Texto';
 import Libro from './Libro';
 import Song from './Song';
-import som2 from './som2.jpeg'
+import som2 from './som2.jpg'
 
 
 function App() {
