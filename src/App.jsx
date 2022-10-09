@@ -4,6 +4,7 @@ import som from './som.jpeg';
 import Texto from './Texto';
 import Libro from './Libro';
 import Song from './Song';
+import som2 from './som2.jpeg'
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
   return (
     <div className="App">
        <header className="App-header">
-          <img src={som} className="App-logo" alt="logo" />
+          <img src={Som2} className="App-logo" alt="logo" />
             <div className="App-link">
               <Texto/>
             </div>
